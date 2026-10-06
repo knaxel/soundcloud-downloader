@@ -1,0 +1,7 @@
+config.json
+token.json
+downloads/
+likes.json
+likes.csv
+__pycache__/
+*.part
